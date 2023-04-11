@@ -1,0 +1,129 @@
+*{
+    margin:relative;
+    padding: relative;
+}
+/*#Titulo{
+    font-family: sans-serif;
+    
+    margin-left: 7%;
+}
+#subtitulo{
+    font-family: sans-serif;
+    
+    margin-left: 10%;
+}
+#check{
+    display: inline-block;
+}
+/*fieldset{
+    border:0;
+}*/
+body{
+    background-color: rgb(21, 80, 131);
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #fcfcfc;
+    
+    justify-content: center;
+    position: relative;
+}
+header{width: 100%; height: 100px; background-color: white; position: relative; top: 0;
+        
+
+}
+.titulo{
+    margin-left: 400px;
+}
+.nome{
+    margin-left: 400px;
+}
+.campo{
+    margin-left: 400px;
+    color: black;
+}
+.problemas{
+    margin-left: 400px;
+    border-radius: 25px;
+    border-width: 1px;
+    border-color:  white;
+    background-color: white;
+
+    height: 100px
+
+
+}
+.areas{
+    margin-left: 400px;
+    border-radius: 25px;
+    border-width: 1px;
+    border-color: white;
+    background-color: white;
+    height: 125px;
+}
+.bloco{
+    margin-left: 400px;
+    color:black
+}
+.caixa{
+    margin-left: 400px;
+}
+/*
+
+input, select, textarea, button{
+    border-radius: 5px;
+    }
+
+.campo{
+    margin-bottom: 1em;
+}
+
+.campo label{
+    margin-bottom: 0.2em;
+    
+    display: block;
+}
+fieldset.grupo .campo{
+    float: left;
+    margin-right: 1em;
+}
+
+.campo input[type="text"], .campo[type="email"], .campo select. .camp textarea{
+    padding: 0.2em;
+    
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    display: block;
+}
+
+.campo select option{
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, campo textarea:focus{
+    background: #e0e0f8;
+}
+
+.botão{
+    font-size: 1.2em;
+    background: #b9f2ff;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.botão:hover{
+    background: #b9d2ff;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
+
+#check{
+    display: inline-block;
+}*/
